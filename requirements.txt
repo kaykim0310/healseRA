@@ -1,7 +1,12 @@
-streamlit==1.28.0
-pandas==2.0.3
-openpyxl==3.1.2
-plotly==5.15.0
-python-docx==0.8.11
-numpy==1.24.3
-requests==2.31.0
+# Python 3.13 호환 버전으로 업데이트
+streamlit>=1.38.0
+pandas>=2.1.0
+openpyxl>=3.1.2
+xlsxwriter>=3.1.9
+Pillow>=10.0.0
+plotly>=5.17.0
+jinja2>=3.1.2
+python-docx>=1.1.0
+reportlab>=4.0.4
+numpy>=1.26.0
+requests>=2.31.0
